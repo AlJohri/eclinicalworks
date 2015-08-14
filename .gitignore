@@ -2,3 +2,6 @@ __pycache__
 *.pyc
 .secret
 .DS_Store
+*.html
+*.txt
+*.xml
